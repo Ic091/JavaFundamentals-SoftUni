@@ -1,4 +1,4 @@
-package L01BasicSyntaxCondStatementsExercise;
+package E01BasicSyntaxCondStatements;
 
 import java.util.Scanner;
 
